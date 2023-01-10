@@ -1,5 +1,8 @@
 # Weenix-Kernel-Implementation
  
+ ** NOTE: **
+ - For full weenix kernel project, please contact me at svregala@gmail.com (Professors prohibit students from uploading the whole project on Github).
+
 - K1, K2, and K3 indicate the 3 different stages my team and I completed.
 - **K1 covers processes and threads. The following files completed by my team were**: 
    - kernel/main/kmain.c: ("PROCS: bootstrap");
@@ -100,7 +103,7 @@
    - vm/vmmap.c:277 		vmmap_read() 		VM
    - vm/vmmap.c:292 		vmmap_write() 		VM
    - vm/brk.c:76 			do_brk() 			VM
-   
+
    - vm/anon.c:60 			anon_init() 			VM
    - vm/anon.c:72 			anon_create() 		VM
    - vm/anon.c:84 			anon_ref() 			VM
