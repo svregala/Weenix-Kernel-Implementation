@@ -1,7 +1,8 @@
 # Weenix-Kernel-Implementation
  
- ** NOTE: **
- - For full weenix kernel project, please contact me at svregala@gmail.com (I'm required to keep the whole project on private).
+ **NOTE:**
+ - For full weenix kernel project, please contact me at svregala@gmail.com (I'm required to keep the whole project description on private).
+ - Additionally, the posted code is to showcase the files that my team and I completed: other supplemental and helper files are not displayed.
 
 - K1, K2, and K3 indicate the 3 different stages my team and I completed.
 - **K1 covers processes and threads. The following files completed by my team were**: 
